@@ -1,6 +1,6 @@
 public class Arithmetic {
-    private int a;
-    private int b;
+    private final int a;
+    private final int b;
 
     public Arithmetic(int a, int b) {
         this.a = a;
